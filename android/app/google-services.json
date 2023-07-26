@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243836457135",
+    "project_id": "smart-home-system-c612e",
+    "storage_bucket": "smart-home-system-c612e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243836457135:android:ae5891019408c7091e445a",
+        "android_client_info": {
+          "package_name": "com.smart_home_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243836457135-h7939jkkcflbqc0l50rse52msnl2ua9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWRQEIO6-5w38aaYm4dD65OtRapQfnTYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243836457135-h7939jkkcflbqc0l50rse52msnl2ua9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
